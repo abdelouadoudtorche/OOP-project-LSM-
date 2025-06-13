@@ -1,8 +1,8 @@
-# 📚 Library Management System
+📚 Library Management System
+A C++ Object-Oriented Programming project developed for managing library resources, users, loans, and reservations.
 
-The Object-Oriented C++ project for managing library resources, users, loans, and reservations.
+Built as part of the 1st-year OOP module at ENSIA, this system applies core OOP concepts like inheritance, polymorphism, encapsulation, and composition. It offers hands-on experience with multi-file project structure and dynamic memory management, simulating essential library operations in a simple, modular design.
 
-Ensia 1st year, module OOP 
 
 ## 🚀 Features
 
